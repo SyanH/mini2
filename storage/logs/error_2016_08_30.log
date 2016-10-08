@@ -1,0 +1,6 @@
+[30-Aug-2016 05:54:34 UTC] PHP Parse error:  syntax error, unexpected '?' in D:\wamp64\www\cms\libs\App.php on line 35
+[30-Aug-2016 05:54:34 UTC] PHP Stack trace:
+[30-Aug-2016 05:54:34 UTC] PHP   1. {main}() D:\wamp64\www\cms\index.php:0
+[30-Aug-2016 05:54:34 UTC] PHP   2. spl_autoload_call() D:\wamp64\www\cms\index.php:32
+[30-Aug-2016 05:54:34 UTC] PHP   3. {closure:D:\wamp64\www\cms\index.php:11-23}() D:\wamp64\www\cms\index.php:32
+[30-Aug-2016 05:55:32 UTC] SQLSTATE[HY000] [1049] Unknown database 'www'
